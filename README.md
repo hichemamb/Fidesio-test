@@ -1,5 +1,8 @@
 # Test technique FIDESIO
 
+
+![FIDESIO](https://www.jobsintech.io/system/companies/logos/000/001/277/original/logo_fidesio_rond_HD.png)
+
 # Fonctionnement ?
 
 - Installer les dépendances nécéssaires => `npm install `
