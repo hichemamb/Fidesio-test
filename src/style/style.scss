@@ -1,0 +1,17 @@
+@import './global/reset'; /* ./global/_reset.scss */
+@import './global/variables'; /* ./global/_variables.scss */
+@import './global/fontfaces'; /* ./global/_fontfaces.scss */
+@import './global/keyframes'; /* ./global/_keyframes.scss */
+
+
+// Import Mixins
+
+@import './mixins/responsive';
+
+// Import Components
+
+@import './components/header';
+@import './components/opening';
+@import './components/discovery';
+@import './components/leasing';
+@import './components/footer';
